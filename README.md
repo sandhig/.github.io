@@ -43,3 +43,10 @@ Website:
 ![Activity 3 Website Photo 6](assets/img/readme_pics/a3p6.png)
 
 ![Activity 3 Website Photo 7](assets/img/readme_pics/a3p7.png)
+
+## Activity 4
+Repo:
+![Activity 4 Repo Photo](assets/img/readme_pics/activity4.png)
+
+Website:
+![Activity 4 Website Photo 1](assets/img/readme_pics/a4p1.png)
