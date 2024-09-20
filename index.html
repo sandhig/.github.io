@@ -413,17 +413,17 @@
       <h3 class="page-title white-text teal">Projects</h3>
       <div class="container">
         <div class="row">
-          <!-- 1. Django Project -->
+          <!-- 1. HP Project -->
           <div class="col s12 m6 l6">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
-                <img alt="django web app" src="/assets/img/project-python-django4.jpg" class="activator" />
+                <img alt="Hogwarts House Sorting project" src="assets/img/hp_house_sorting.png" class="activator" />
               </div>
               <div class="card-content">
-                <span class="card-title activator teal-text hoverline">Django Project<i
+                <span class="card-title activator teal-text hoverline">Hogwarts House Sorting using Stacked LSTM<i
                     class="mdi-navigation-more-vert right"></i></span>
                 <p>
-                  Django based To-do app.
+                  Sorting Harry Potter characters into their houses based on dialogue from the movies.
                 </p>
               </div>
               <div class="card-reveal">
@@ -432,19 +432,23 @@
                 <span class="card-title grey-text"><small>Accomplishments</small><i
                     class="mdi-navigation-close right"></i></span>
                 <ul>
-                  <li></li>
-                  <li></li>
+                  <li>
+                    Trained a stacked LSTM model on Harry Potter dialogue to sort characters by house (Gryffindor, Ravenclaw, Hufflepuff, Slytherin)
+                  </li>
+                  <li>
+                    The model worked well on Harry Potter characters, and was tested on Star Wars characters as well
+                  </li>
 
                 </ul>
                 <div class="card-action">
-                  <a aria-label="Visit Code Island website" href="http://google.com" target="_blank" data-position="top"
-                    data-tooltip="View Online"
+                  <a aria-label="View the code for this project" href="https://colab.research.google.com/drive/1veOoI9P_GdTnFWzou34HdYCI5bypg9lY?usp=sharing" target="_blank" data-position="top"
+                    data-tooltip="View Code"
                     class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
                       class="fa fa-external-link"></i></a>
-                  <a aria-label="Visit the GitHub repo for Interpol8r project" href="https://github.com/varadbhogayata/"
-                    target="_blank" data-position="top" data-tooltip="View Source"
+                  <a aria-label="Watch the video about this project" href="https://youtu.be/BlvXQmKTtgo"
+                    target="_blank" data-position="top" data-tooltip="View Video"
                     class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
-                      class="fa fa-github"></i></a>
+                      class="fa fa-video-camera"></i></a>
                 </div>
               </div>
             </div>
@@ -862,6 +866,18 @@
       </div>
     </section>
   </main>
+
+
+   <!-- typed.js -->
+   <script src="assets/vendor/typed.js/typed.min.js"></script>
+   <script type="text/javascript">
+     var typed = new Typed('.typing',{
+       strings: ["Pythonist", "Developer", "Fast Learner"],
+       loop: true,
+       typeSpeed: 80,
+       backSpeed: 40
+     });
+   </script>
 
   <!--
       Google Analytics
