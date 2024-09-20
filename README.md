@@ -24,3 +24,22 @@ Website:
 ![Activity 2 Website Photo 6](assets/img/readme_pics/a2p6.png)
 
 ![Activity 2 Website Photo 7](assets/img/readme_pics/a2p7.png)
+
+## Activity 3
+Repo:
+![Activity 3 Repo Photo](assets/img/readme_pics/activity3.png)
+
+Website:
+![Activity 3 Website Photo 1](assets/img/readme_pics/a3p1.png)
+
+![Activity 3 Website Photo 2](assets/img/readme_pics/a3p2.png)
+
+![Activity 3 Website Photo 3](assets/img/readme_pics/a3p3.png)
+
+![Activity 3 Website Photo 4](assets/img/readme_pics/a3p4.png)
+
+![Activity 3 Website Photo 5](assets/img/readme_pics/a3p5.png)
+
+![Activity 3 Website Photo 6](assets/img/readme_pics/a3p6.png)
+
+![Activity 3 Website Photo 7](assets/img/readme_pics/a3p7.png)
